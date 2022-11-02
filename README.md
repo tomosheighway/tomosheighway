@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomosheighway
-- Im currently working as a IT intern for Puma. 
+- Final Year Computer Science Undergraduate
 - Find me on linkedIn at https://www.linkedin.com/in/tomos-heighway/
 
 <!---
