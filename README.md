@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @tomosheighway
+- Software developer working with Python , Java , Salesforce (APEX) and javascript 
 - First class BSC Computer Science graduate 
 - Find me on LinkedIn at https://www.linkedin.com/in/tomos-heighway/
 
